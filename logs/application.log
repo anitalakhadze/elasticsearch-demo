@@ -1,0 +1,131 @@
+14-11-2022 22:00:04.728 [main] INFO  c.e.e.ElasticsearchDemoApplication.logStarting - Starting ElasticsearchDemoApplication using Java 17.0.5 on xps with PID 72554 (/home/anita/Documents/dev/java/elasticsearch-demo/target/classes started by anita in /home/anita/Documents/dev/java/elasticsearch-demo)
+14-11-2022 22:00:04.731 [main] INFO  c.e.e.ElasticsearchDemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+14-11-2022 22:00:05.716 [main] INFO  c.e.e.ElasticsearchDemoApplication.logStarted - Started ElasticsearchDemoApplication in 1.384 seconds (JVM running for 2.056)
+14-11-2022 22:00:11.628 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:00:11.629 [http-nio-8080-exec-1] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:00:13.127 [http-nio-8080-exec-2] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:00:13.127 [http-nio-8080-exec-2] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:00:13.938 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:00:13.939 [http-nio-8080-exec-3] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:00:14.341 [http-nio-8080-exec-4] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:00:14.341 [http-nio-8080-exec-4] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:00:14.728 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:00:14.729 [http-nio-8080-exec-5] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:00:14.995 [http-nio-8080-exec-6] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:00:14.996 [http-nio-8080-exec-6] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:00:15.370 [http-nio-8080-exec-7] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:00:15.371 [http-nio-8080-exec-7] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:00:19.032 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:19.033 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:19 GET 2022
+14-11-2022 22:00:20.425 [http-nio-8080-exec-9] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:20.426 [http-nio-8080-exec-9] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:20 GET 2022
+14-11-2022 22:00:21.066 [http-nio-8080-exec-10] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:21.067 [http-nio-8080-exec-10] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:21 GET 2022
+14-11-2022 22:00:21.762 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:21.763 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:21 GET 2022
+14-11-2022 22:00:22.308 [http-nio-8080-exec-2] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:22.309 [http-nio-8080-exec-2] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:22 GET 2022
+14-11-2022 22:00:23.000 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:23.001 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:23 GET 2022
+14-11-2022 22:00:23.408 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:23.409 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:23 GET 2022
+14-11-2022 22:00:23.690 [http-nio-8080-exec-6] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:23.691 [http-nio-8080-exec-6] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:23 GET 2022
+14-11-2022 22:00:23.922 [http-nio-8080-exec-7] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:23.923 [http-nio-8080-exec-7] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:23 GET 2022
+14-11-2022 22:00:24.128 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:24.129 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:24 GET 2022
+14-11-2022 22:00:24.464 [http-nio-8080-exec-9] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:24.465 [http-nio-8080-exec-9] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:24 GET 2022
+14-11-2022 22:00:24.672 [http-nio-8080-exec-10] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:24.673 [http-nio-8080-exec-10] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:24 GET 2022
+14-11-2022 22:00:25.026 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:25.027 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:25 GET 2022
+14-11-2022 22:00:25.188 [http-nio-8080-exec-2] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:25.189 [http-nio-8080-exec-2] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:25 GET 2022
+14-11-2022 22:00:25.358 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:25.359 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:25 GET 2022
+14-11-2022 22:00:25.638 [http-nio-8080-exec-4] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:25.638 [http-nio-8080-exec-4] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:25 GET 2022
+14-11-2022 22:00:25.818 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:25.819 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:25 GET 2022
+14-11-2022 22:00:26.016 [http-nio-8080-exec-6] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:26.017 [http-nio-8080-exec-6] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:26 GET 2022
+14-11-2022 22:00:26.409 [http-nio-8080-exec-7] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:26.410 [http-nio-8080-exec-7] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:26 GET 2022
+14-11-2022 22:00:26.607 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:26.608 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:26 GET 2022
+14-11-2022 22:00:26.813 [http-nio-8080-exec-9] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:26.814 [http-nio-8080-exec-9] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:26 GET 2022
+14-11-2022 22:00:26.981 [http-nio-8080-exec-10] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:26.982 [http-nio-8080-exec-10] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:26 GET 2022
+14-11-2022 22:00:27.205 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:27.206 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:27 GET 2022
+14-11-2022 22:00:27.410 [http-nio-8080-exec-2] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:27.411 [http-nio-8080-exec-2] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:27 GET 2022
+14-11-2022 22:00:27.574 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:27.575 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:27 GET 2022
+14-11-2022 22:00:27.786 [http-nio-8080-exec-4] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:27.787 [http-nio-8080-exec-4] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:27 GET 2022
+14-11-2022 22:00:27.968 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:00:27.969 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:00:27 GET 2022
+14-11-2022 22:21:18.770 [main] INFO  c.e.e.ElasticsearchDemoApplication.logStarting - Starting ElasticsearchDemoApplication using Java 17.0.5 on xps with PID 77304 (/home/anita/Documents/dev/java/elasticsearch-demo/target/classes started by anita in /home/anita/Documents/dev/java/elasticsearch-demo)
+14-11-2022 22:21:18.773 [main] INFO  c.e.e.ElasticsearchDemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+14-11-2022 22:21:20.052 [main] INFO  c.e.e.ElasticsearchDemoApplication.logStarted - Started ElasticsearchDemoApplication in 1.64 seconds (JVM running for 2.893)
+14-11-2022 22:21:28.806 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:21:28.807 [http-nio-8080-exec-1] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:21:29.990 [http-nio-8080-exec-2] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:21:29.991 [http-nio-8080-exec-2] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:21:30.900 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:21:30.901 [http-nio-8080-exec-3] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:21:34.443 [http-nio-8080-exec-4] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:21:34.445 [http-nio-8080-exec-4] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:21:34 GET 2022
+14-11-2022 22:21:35.830 [http-nio-8080-exec-6] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:21:35.831 [http-nio-8080-exec-6] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:21:35 GET 2022
+14-11-2022 22:21:36.320 [http-nio-8080-exec-7] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:21:36.322 [http-nio-8080-exec-7] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:21:36 GET 2022
+14-11-2022 22:21:36.687 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:21:36.688 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:21:36 GET 2022
+14-11-2022 22:21:37.010 [http-nio-8080-exec-9] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:21:37.011 [http-nio-8080-exec-9] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:21:37 GET 2022
+14-11-2022 22:32:16.371 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:32:16.376 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:32:16 GET 2022
+14-11-2022 22:38:07.449 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:38:07.452 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:38:07 GET 2022
+14-11-2022 22:38:09.254 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+14-11-2022 22:38:09.255 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Mon Nov 14 22:38:09 GET 2022
+14-11-2022 22:38:14.516 [http-nio-8080-exec-7] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:38:14.517 [http-nio-8080-exec-7] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:38:16.682 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:38:16.683 [http-nio-8080-exec-8] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+14-11-2022 22:56:01.116 [http-nio-8080-exec-10] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+14-11-2022 22:56:01.118 [http-nio-8080-exec-10] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 20:22:30.531 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 20:22:30.537 [http-nio-8080-exec-1] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 20:57:23.523 [main] INFO  c.e.e.ElasticsearchDemoApplication.logStarting - Starting ElasticsearchDemoApplication using Java 17.0.5 on xps with PID 119992 (/home/anita/Documents/dev/java/elasticsearch-demo/target/classes started by anita in /home/anita/Documents/dev/java/elasticsearch-demo)
+15-11-2022 20:57:23.526 [main] INFO  c.e.e.ElasticsearchDemoApplication.logStartupProfileInfo - No active profile set, falling back to 1 default profile: "default"
+15-11-2022 20:57:24.400 [main] INFO  c.e.e.ElasticsearchDemoApplication.logStarted - Started ElasticsearchDemoApplication in 1.198 seconds (JVM running for 1.879)
+15-11-2022 20:58:24.342 [http-nio-8080-exec-4] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 20:58:24.343 [http-nio-8080-exec-4] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:51.418 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:51.420 [http-nio-8080-exec-8] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:53.141 [http-nio-8080-exec-9] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:53.142 [http-nio-8080-exec-9] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:53.744 [http-nio-8080-exec-10] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:53.745 [http-nio-8080-exec-10] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:53.930 [http-nio-8080-exec-1] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:53.931 [http-nio-8080-exec-1] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:54.138 [http-nio-8080-exec-2] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:54.138 [http-nio-8080-exec-2] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:54.306 [http-nio-8080-exec-3] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:54.306 [http-nio-8080-exec-3] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:54.489 [http-nio-8080-exec-4] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:54.490 [http-nio-8080-exec-4] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:54.694 [http-nio-8080-exec-5] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:54.695 [http-nio-8080-exec-5] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:54.921 [http-nio-8080-exec-6] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:54.921 [http-nio-8080-exec-6] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:55.096 [http-nio-8080-exec-7] INFO  c.e.e.controller.ELKController.foodDetails - Inside Food Detail Function
+15-11-2022 21:08:55.097 [http-nio-8080-exec-7] INFO  c.e.e.services.ELKService.getAllFoodDetails - Fetching all food details...
+15-11-2022 21:08:58.777 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Inside Hello World Function
+15-11-2022 21:08:58.780 [http-nio-8080-exec-8] INFO  c.e.e.controller.ELKController.helloWorld - Response => Hello World! Tue Nov 15 21:08:58 GET 2022

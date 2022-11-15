@@ -1,0 +1,12 @@
+15-11-2022 20:57:49.446 [http-nio-8080-exec-1] INFO  outbound-logs.getPostsPlainJSON - Getting Weather Information for ohio
+15-11-2022 20:57:49.447 [http-nio-8080-exec-1] INFO  outbound-logs.getPostsPlainJSON - Final URL => https://goweather.herokuapp.com/weather/ohio
+15-11-2022 20:57:52.135 [http-nio-8080-exec-1] INFO  outbound-logs.getPostsPlainJSON - Error occurred in Outbound Request... => 404 Not Found: "{"message":"NOT_FOUND"}"
+15-11-2022 20:58:07.045 [http-nio-8080-exec-2] INFO  outbound-logs.getPostsPlainJSON - Getting Weather Information for ohio
+15-11-2022 20:58:07.046 [http-nio-8080-exec-2] INFO  outbound-logs.getPostsPlainJSON - Final URL => https://goweather.herokuapp.com/weather/ohio
+15-11-2022 20:58:07.919 [http-nio-8080-exec-2] INFO  outbound-logs.getPostsPlainJSON - Error occurred in Outbound Request... => 404 Not Found: "{"message":"NOT_FOUND"}"
+15-11-2022 20:58:10.681 [http-nio-8080-exec-3] INFO  outbound-logs.getPostsPlainJSON - Getting Weather Information for tbilisi
+15-11-2022 20:58:10.682 [http-nio-8080-exec-3] INFO  outbound-logs.getPostsPlainJSON - Final URL => https://goweather.herokuapp.com/weather/tbilisi
+15-11-2022 20:58:12.551 [http-nio-8080-exec-3] INFO  outbound-logs.getPostsPlainJSON - Response => {"temperature":"9 °C","wind":"13 km/h","description":"Clear","forecast":[{"day":"1","temperature":"+10 °C","wind":"5 km/h"},{"day":"2","temperature":"7 °C","wind":"3 km/h"},{"day":"3","temperature":"9 °C","wind":" km/h"}]}
+15-11-2022 21:08:43.617 [http-nio-8080-exec-7] INFO  outbound-logs.getPostsPlainJSON - Getting Weather Information for tbilisi
+15-11-2022 21:08:43.624 [http-nio-8080-exec-7] INFO  outbound-logs.getPostsPlainJSON - Final URL => https://goweather.herokuapp.com/weather/tbilisi
+15-11-2022 21:08:44.820 [http-nio-8080-exec-7] INFO  outbound-logs.getPostsPlainJSON - Response => {"temperature":"9 °C","wind":"13 km/h","description":"Clear","forecast":[{"day":"1","temperature":"+10 °C","wind":"5 km/h"},{"day":"2","temperature":"7 °C","wind":"3 km/h"},{"day":"3","temperature":"9 °C","wind":" km/h"}]}
